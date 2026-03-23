@@ -64,7 +64,7 @@ All three services are defined in `docker-compose.yml` and communicate via Docke
 ### 🔨 Docker Compose Build
 <!-- Screenshot of `docker compose up --build` terminal output showing all 3 services starting -->
  <img width="357" height="171" alt="successfully created" src="https://github.com/user-attachments/assets/6d647015-af50-49b6-8f73-2e0709e6970f" />
- <p style="text-align: center;">Successfully built all three services.</p>
+<p align="center"> Successfully built all three services.</p>
 
 
 ---
