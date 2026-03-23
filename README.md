@@ -25,13 +25,14 @@ Users can:
 ---
 
 ##  Architecture
-Frontend (React)
-↓
-Backend API (Node.js / Express)
-↓
-MongoDB (Database)
 
-(All services containerized using Docker Compose)
+Frontend (React)  
+⬇  
+Backend API (Node.js / Express)  
+⬇  
+MongoDB (Database)  
+
+_All services are containerized using Docker Compose_
 
 
 ---
