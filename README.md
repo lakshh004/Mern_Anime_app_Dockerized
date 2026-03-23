@@ -186,5 +186,5 @@ VITE_API_URL=http://api:8000
 ## 👨‍💻 Author
 
 **Lakshya Purohit**  
-B.Tech CSE | Rajasthan, India  
+B.Tech CSE  
 [GitHub](https://github.com/lakshh004)
