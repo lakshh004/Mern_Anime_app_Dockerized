@@ -46,20 +46,20 @@ All three services are defined in `docker-compose.yml` and communicate via Docke
 
 ###  Home Page (Anime List)
 <!-- Add screenshot of the main UI showing anime cards -->
-<img width="1470" height="956" alt="startup page" src="https://github.com/user-attachments/assets/8dd00a72-14ff-446f-9703-947cb422b54a" /> <p style="text-align: center;">Home Page</p>
+<img width="1470" height="956" alt="startup page" src="https://github.com/user-attachments/assets/8dd00a72-14ff-446f-9703-947cb422b54a" /> <p align="center">Home Page</p>
 
 
 ### ➕ Add Anime Form
 <!-- Add screenshot of the form where user fills in anime name, link, description -->
 <img width="1470" height="956" alt="adding anime" src="https://github.com/user-attachments/assets/73e4fcf0-3890-4d86-a05f-57f3c141f4f2" />
-<img width="1470" height="956" alt="added anime" src="https://github.com/user-attachments/assets/fe3333fe-aa82-4e72-b2ef-d652b8a7d984" /> <p style="text-align: center;">Adding anime into watch list.</p>
+<img width="1470" height="956" alt="added anime" src="https://github.com/user-attachments/assets/fe3333fe-aa82-4e72-b2ef-d652b8a7d984" /> <p align="center">Adding anime into watch list.</p>
 
 
 
 ### 🐳 Docker Containers Running
 <!-- Run `docker ps` in terminal and screenshot the output -->
 <img width="977" height="151" alt="dokcker ps" src="https://github.com/user-attachments/assets/e9168857-1dde-458f-ace0-fef431b448c9" />
-<p style="text-align: center;">"docker ps" command in action.</p>
+<p align="center"> "docker ps" command in action.</p>
 
 ### 🔨 Docker Compose Build
 <!-- Screenshot of `docker compose up --build` terminal output showing all 3 services starting -->
