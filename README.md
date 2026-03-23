@@ -46,24 +46,25 @@ All three services are defined in `docker-compose.yml` and communicate via Docke
 
 ###  Home Page (Anime List)
 <!-- Add screenshot of the main UI showing anime cards -->
-![Home Page]<img width="1470" height="956" alt="startup page" src="https://github.com/user-attachments/assets/8dd00a72-14ff-446f-9703-947cb422b54a" />
+<img width="1470" height="956" alt="startup page" src="https://github.com/user-attachments/assets/8dd00a72-14ff-446f-9703-947cb422b54a" /> <h1 style="text-align: center;">Home Page</h1>
 
 
 ### ➕ Add Anime Form
 <!-- Add screenshot of the form where user fills in anime name, link, description -->
-![Add Anime]<img width="1470" height="956" alt="adding anime" src="https://github.com/user-attachments/assets/73e4fcf0-3890-4d86-a05f-57f3c141f4f2" />
-<img width="1470" height="956" alt="added anime" src="https://github.com/user-attachments/assets/fe3333fe-aa82-4e72-b2ef-d652b8a7d984" />
+<img width="1470" height="956" alt="adding anime" src="https://github.com/user-attachments/assets/73e4fcf0-3890-4d86-a05f-57f3c141f4f2" />
+<img width="1470" height="956" alt="added anime" src="https://github.com/user-attachments/assets/fe3333fe-aa82-4e72-b2ef-d652b8a7d984" /> <h1 style="text-align: center;">Adding anime into watch list.</h1>
 
 
 
 ### 🐳 Docker Containers Running
 <!-- Run `docker ps` in terminal and screenshot the output -->
-![Docker PS]<img width="977" height="151" alt="dokcker ps" src="https://github.com/user-attachments/assets/e9168857-1dde-458f-ace0-fef431b448c9" />
-
+<img width="977" height="151" alt="dokcker ps" src="https://github.com/user-attachments/assets/e9168857-1dde-458f-ace0-fef431b448c9" />
+<h1 style="text-align: center;">"docker ps" command in action.</h1>
 
 ### 🔨 Docker Compose Build
 <!-- Screenshot of `docker compose up --build` terminal output showing all 3 services starting -->
-![Docker Compose] <img width="357" height="171" alt="successfully created" src="https://github.com/user-attachments/assets/6d647015-af50-49b6-8f73-2e0709e6970f" />
+ <img width="357" height="171" alt="successfully created" src="https://github.com/user-attachments/assets/6d647015-af50-49b6-8f73-2e0709e6970f" />
+ <h1 style="text-align: center;">Successfully built all three services.</h1>
 
 
 ---
