@@ -4,7 +4,7 @@ A full-stack MERN application containerized using Docker Compose that allows use
 
 ---
 
-## 🧠 Overview
+##  Overview
 
 This project demonstrates a **multi-container architecture** using Docker, where the frontend, backend, and database run as isolated services while communicating over a shared network.
 
@@ -15,7 +15,7 @@ Users can:
 
 ---
 
-## ⚙️ Tech Stack
+##  Tech Stack
 
 - **Frontend:** React (Vite)
 - **Backend:** Node.js, Express.js
@@ -24,7 +24,7 @@ Users can:
 
 ---
 
-## 🏗️ Architecture
+##  Architecture
 Frontend (React)
 ↓
 Backend API (Node.js / Express)
@@ -51,7 +51,7 @@ This project uses Docker Compose to run 3 services:
 
 ---
 
-## 🚀 How to Run Locally
+##  How to Run Locally
 
 
 docker compose up --build
