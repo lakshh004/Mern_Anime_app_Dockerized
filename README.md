@@ -1,4 +1,4 @@
-# 🎌 MERN Anime App — Dockerized
+# 🎌 MERN Anime App - Dockerized
 
 A full-stack MERN application containerized with Docker Compose that lets users share and explore anime with persistent storage. Built as a hands-on DevOps learning project demonstrating multi-container architecture, service networking, and volume management.
 
